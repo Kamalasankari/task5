@@ -8,5 +8,5 @@ def unichar(s):
 
 
 s = input("enter string:")
-print(s)
+
 unichar(s)
